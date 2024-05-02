@@ -6,4 +6,5 @@
 # Creando conclicto - PT 1
 # Creando conflicto - PT 2
 
+# Resolviendo conflictos - PT 1
 # Resolviendo conflictos - PT 2
